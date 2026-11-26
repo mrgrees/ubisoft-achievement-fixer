@@ -1,4 +1,4 @@
-# ubisoft-spool-tool
+# ubisoft-achievement-fixer
 
 A small Python script to **fix bugged achievements** in Ubisoft Connect's local achievement files (`.spool`).
 
