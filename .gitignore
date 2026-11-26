@@ -1,0 +1,3 @@
+# Never commit achievement files (the script creates them next to itself)
+*.spool
+__pycache__/
