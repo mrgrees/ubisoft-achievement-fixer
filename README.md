@@ -4,7 +4,7 @@ A small Python script to **fix bugged achievements** in Ubisoft Connect's local 
 
 Sometimes a game doesn't unlock an achievement you clearly earned. A sequence gets skipped after a connection drop, or a challenge never triggers. Ubisoft Connect keeps your unlocked achievements in a small local file, and this tool lets you add the missing entry to it.
 
-Tested on **Assassin's Creed III Remastered**: three bugged achievements (Sequence 7, Sequence 8, and the Jäger notoriety challenge) unlocked after adding them.
+Tested on **Assassin's Creed III Remastered**: three bugged achievements (Sequence 7, Sequence 8, and the Jäger notoriety challenge) unlocked after adding them. They also unlocked on **Steam**, which picks them up once Ubisoft Connect has them.
 
 > **Only use this for achievements you actually earned.** This is an unofficial tool, not affiliated with or supported by Ubisoft. Use at your own risk, and always keep a backup.
 
